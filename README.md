@@ -19,7 +19,7 @@ To build the SDK project you have to install the following environment:
 4. Android SDK API 28
 
 ## Clone the project:
-MAN-Nav2020 SDK is located in Git repository [here](https://github.com/saralask/EducatorApp.git)
+Educator App is located in Git repository [here](https://github.com/saralask/EducatorApp.git)
 
 
 Open the git command line and enter the clone command:
