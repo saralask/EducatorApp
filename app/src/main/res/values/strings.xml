@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Educator v1.0</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="feed_fragment">Feed Fragment</string>
+    <string name="feed">Feed</string>
+    <string name="topics">Topics</string>
+    <string name="quiz">Quiz</string>
+</resources>
